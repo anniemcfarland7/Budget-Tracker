@@ -13,4 +13,4 @@ Heroku URL: https://annie-budget-tracker.herokuapp.com/
 
 The following screenshot demonstrates the sample Fitness Tracker application:
 
-![Screenshot](./public/assets/img/video.gif)
+![Screenshot](./public/screenshot.png)
